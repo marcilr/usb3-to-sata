@@ -4,3 +4,25 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 USB3 to SATA
+
+
+The goal is to use USB3 attached ssd drive for portable data
+storage.  Like the Crucial MX500 line of ssd drives:
+
+  Crucial MX500 2TB 3D NAND SATA 2.5"    <=== for NAS storage (?)
+  7mm (with 9.5mm adapter) Internal SSD
+  CT2000MX500SSD1
+  price: $229.99
+  https://www.crucial.com/usa/en/ct2000mx500ssd1
+
+  Crucial MX500 1TB 3D NAND SATA 2.5"    <=== for portable
+  7mm (with 9.5mm adapter) Internal SSD
+  CT1000MX500SSD1
+  price: $109.99
+  https://www.crucial.com/usa/en/ct1000mx500ssd1
+
+  Crucial MX500 500GB 3D NAND SATA 2.5"
+  7mm (with 9.5mm adapter) Internal SSD
+  CT500MX500SSD1
+  price:$66.99
+  https://www.crucial.com/usa/en/ct500mx500ssd1
