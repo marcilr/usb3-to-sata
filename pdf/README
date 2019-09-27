@@ -1,0 +1,46 @@
+README
+Created Fri Sep 27 07:59:15 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+EC-3US25-User-Manual.pdf (15.85KB)
+  EC-3US25 - User Manual [English].pdf 
+  ===> EC-3US25-User-Manual.pdf
+  Sabrent EC-3US25
+  USB 3.0 SATA Enclosure 2.5 Inch USB 3.0 SATA Hard Drive
+  Congratulations on your purchase of the new Sabrent EC-3US25 SuperSpeed USB 3.0
+  Hard Drive Enclosure! The enclosure provides a secure and lightweight method of
+  transporting and transferring large quantities of data at the fastest possible USB 3.0
+  speeds, while still being reverse compatible with USB 1.1/2.0. Your computer will
+  quickly detect and configure the connected Hard Drive (Plug & Play) via the USB
+  connection, with no need to restart the computer. Blazing USB 3.0 speeds of up to
+  5Gbps allow you to effortlessly run files directly from your hard drive, such as, songs,
+  videos, and databases. The aluminum casing effectively dissipates heat, and its
+  compact sleek design with mirror finish replaces the old eyesore hard drive enclosures
+  of old.
+
+  No Software or Drivers are needed to complete the connection.  The Hard Drive
+  Enclosure should appear in Device Manager under the “Universal Serial Bus
+  Controllers” as “USB Mass Storage” (There should be no error icon: ‘?’ or ‘!’)
+  and the Hard Drive should appear in “MY COMPUTER” as a new Drive Letter.
+
+  If the Hard-Drive is brand new you may need to first format it to make the
+  Drive Letter appear. Right-click on MY COMPUTER, Select MANAGE, Go to DISK
+  MANAGEMENT, go to the drive information in the Right column and Right-click
+  on the drive to Initialize, Partition, Assign Drive Letter and Format.
+  We recommend the NTFS file system.  At this point you should get the Drive
+  letter in MY COMPUTER.
+  o USB 3.0 (Reverse compatible with USB 2.0/1.1)
+  o Up to 5 Gbps (USB 3.0); Up to 480Mbps (USB 2.0)
+  o System Requirements:
+    2.5" SATA/SATA II (Serial ATA) hard drive
+    Available USB Port.
+    ***Computer must be USB 3.0 ready to achieve full USB 3.0 Speeds.
+    (Reverse compatible with USB 2.0 or 1.1 ports at reduced speeds)
+    Operating Systems: Windows 2000/XP/VISTA/7; MAC OS X
+  Very nice
+  https://www.sabrent.com/download/ec-3us25-user-manual/
+
+
