@@ -13,3 +13,18 @@ USB 3.0 SATA Enclosure 2.5 Inch USB 3.0 SATA Hard Drive
 Very nice
 https://www.sabrent.com/download/ec-3us25-user-manual/
 
+USB Charging port on OptiPlex 7040???
+I have an OptiPlex 7040 with USB 3.0 ports on front and rear.
+Are any of these ports a USB Charging port?
+
+RE: USB Charging port on OptiPlex 7040???  
+All usb ports are charging ports aka 2.5W.  There are not
+any marked YELLOW Always on USB ports that "charge" whether
+the system is on or off. 
+
+http://topics-cdn.dell.com/pdf/optiplex-7040-desktop_owner's%20manual_en-us.pdf
+
+There is a setting in CMOS USB PowerSh
+--USB Charging port on OptiPlex 7040???
+  speedstep, 8 Krypton 07-29-2017 11:17 AM
+  https://www.dell.com/community/Desktops-General-Read-Only/USB-Charging-port-on-OptiPlex-7040/td-p/5142765
