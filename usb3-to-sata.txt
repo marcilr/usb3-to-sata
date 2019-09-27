@@ -26,3 +26,38 @@ storage.  Like the Crucial MX500 line of ssd drives:
   CT500MX500SSD1
   price:$66.99
   https://www.crucial.com/usa/en/ct500mx500ssd1
+
+USB 3.0 SATA Enclosure 2.5 Inch USB 3.0 SATA Hard Drive
+Looks nice
+https://www.sabrent.com/download/ec-3us25-user-manual/
+
+Sabrent 2.5-Inch SATA to USB 3.0 Tool-Free External Hard Drive Enclosure
+[Optimized for SSD, Support UASP SATA III] Black (EC-UASP)
+by Sabrent
+Operating System:Supported Operating Systems:Mac,Windows;
+Supported Windows Versions :Windows 7, Windows 8, 
+Windows Vista, Windows XP;Supported Mac Versions:Mac OS X and Higher
+price: $8.99 (Fri Sep 27, 2019)
+https://www.amazon.com/Sabrent-Tool-free-Enclosure-Optimized-EC-UASP/dp/B00OJ3UJ2S
+
+USBC-SATA-E
+Plugable USBC-SATA-E USB 3.1 Gen 2 SATA 2.5″ Portable Drive Enclosure 
+The Plugable USBC-SATA-E USB 3.1 Gen 2 SATA 2.5″ Portable Drive Enclosure
+turns 2.5″ internal SSDs and HDDs into a portable external drive with a
+rugged black airbrushed aluminum case.
+price: ???
+NOTE: The Dell OPtiplex 7040 only has USB 3.0 on front and back
+      "All usb ports are charging ports aka 2.5W."
+      https://www.dell.com/community/Desktops-General-Read-Only/USB-Charging-port-on-OptiPlex-7040/td-p/5142765
+https://plugable.com/products/usbc-sata-e/
+
+Coboc USBC-2.5SATA USB 3.1 GEN 1(5Gbps)  <=== USB3 to SATA cable adapter
+Type-C to SATA Adapter Converter Cable
+for 2.5 inch SATA I/II/III Drives,Support UASP,USB Powered
+price: $9.99
+o USB Type-C to 2.5" SATA Adapter
+o Compatible with 2.5" SATA SSDs and most 2.5" HDDs
+o USB 3.1 Gen 1 transfer speeds up to 5Gbps with high performance
+o USB Powered
+Connects directly to a 2.5" SATA SSD/HDD with no extra power adapter required
+https://www.newegg.com/coboc-usbc-2-5sata-usb-type-c-to-sata/p/N82E16812423235?item=N82E16812423235&source=region&nm_mc=knc-googleadwords-pc&cm_mmc=knc-googleadwords-pc-_-pla-_-usb+converters-_-N82E16812423235&gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfmq6LySO7OlDfHHyRj3oLNZk1ibs-ND-vS95UNqytSYtyK3mFCaGUaAlNQEALw_wcB&gclsrc=aw.ds
